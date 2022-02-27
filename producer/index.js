@@ -22,3 +22,8 @@ function queueMessage() {
     const resulr = stream.write(Buffer.from('hi...'))
     console.log(result);
 }
+
+/**
+ * Have not done yet. 
+ * Original link: https://github.com/kriscfoster/node-kafka-producer-consumer
+ */
